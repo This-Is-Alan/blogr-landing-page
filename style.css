@@ -498,6 +498,9 @@ body {
         margin: 2em 0;
         text-align: center;
     }
+    .nav {
+        margin-bottom: 10em;
+    }
     .nav__dropdown-menu {
         position: static;
         background-color: hsl(240, 2%, 92%);
